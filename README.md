@@ -2,8 +2,6 @@
 
 **NutriFit Pro** is a modern fitness and nutrition web application designed to help users maintain a healthy lifestyle through balanced diet planning and fitness awareness.
 
-> Roman Urdu: Ye app users ko fitness aur nutrition manage karne mein madad karti hai — simple, clean aur user‑friendly interface ke sath.
-
 ---
 
 ## 🚀 Live Demo
